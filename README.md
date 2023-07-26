@@ -3,11 +3,11 @@ Simple OFDM implementation in python ready to be transmitted with acoustic modem
 
 This project is about building the physical layer of an OFDM modem that works over audio. OFDM is used in WiFI, 5G, digital TV, and a host of other radio communincation.
 
-The acoustic modem has desired sample rate, frequency range and amplidute range.
+The acoustic modem has a desired sample rate, frequency range and amplidute range.
 
 If you only starting playing with OFDM, a good place to start is [here](https://hardwareteams.com/docs/dsp/audio-ofdm/audio-ofdm-modem-part1/).
 
-I've upload this repo because it was hard to find end-to-end, real implementation of OFDM for underwater acoustics.
+I've upload this repo because it was hard to find an end-to-end, real implementation of OFDM for underwater acoustics.
  
 [Full project report](https://github.com/MaorAssayag/transmit-ofdm/blob/main/assets/AcoustisSSP_proj_MaorAssayag.pdf) with OFDM summarization and various DSP algoritehms.
 
