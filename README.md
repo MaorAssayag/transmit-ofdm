@@ -5,7 +5,7 @@ This project is about building the physical layer of an OFDM modem that works ov
 
 The acoustic modem has a desired sample rate, frequency range and amplidute range.
 
-If you only starting playing with OFDM, a good place to start is [here](https://hardwareteams.com/docs/dsp/audio-ofdm/audio-ofdm-modem-part1/).
+If you only starting to play with OFDM, I recommend to follow [here](https://hardwareteams.com/docs/dsp/audio-ofdm/audio-ofdm-modem-part1/).
 
 I've upload this repo because it was hard to find an end-to-end, real implementation of OFDM for underwater acoustics.
  
